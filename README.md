@@ -17,15 +17,11 @@
 - 📚 [**Library Management System**](#) – A book inventory system with authentication.  
 - 💬 [**Gen Z Chat App**](#) – A real-time chat app using WebSockets.  
 - 🔗 [**Decentralized Exchange (DEX)**](#) – A MERN-based crypto trading platform.  
-
-## 📈 Coding Profiles  
-- **LeetCode:** [leetcode.com/VrindaVerma](#)  
-- **GeeksforGeeks:** [gfg.com/VrindaVerma](#)  
-- **CodeChef:** [codechef.com/VrindaVerma](#)  
+ 
 
 ## 📫 Let's Connect!  
 🌐 **Portfolio:** [Coming Soon!]  
-💼 **LinkedIn:** [linkedin.com/in/vrindaverma](#)  
+💼 **LinkedIn:** (#)  
 📧 **Email:** vrinda885@gmail.com  
 
 🚀 Open to collaborations and learning new technologies!  
