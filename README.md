@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Vrinda Verma!  
 
-<!--
-**vrindaa4/vrindaa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Student | Backend Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+🔹 Passionate about **backend development**, **data science**, and **open-source**.  
+🔹 Interested in **distributed systems** and **real-time applications**.  
+🔹 Love solving **DSA** challenges and participating in **hackathons**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+💻 **Languages:** Java, C++, Python, JavaScript  
+🛠️ **Frameworks:** Node.js, Express.js, React  
+💾 **Databases:** MongoDB, MySQL  
+☁️ **Cloud & DevOps:** Docker, AWS, Kubernetes  
+
+## 📌 Projects  
+- 🚀 [**Crafted Connections**](#) – A digital marketplace for handmade goods (MERN Stack).  
+- 📚 [**Library Management System**](#) – A book inventory system with authentication.  
+- 💬 [**Gen Z Chat App**](#) – A real-time chat app using WebSockets.  
+- 🔗 [**Decentralized Exchange (DEX)**](#) – A MERN-based crypto trading platform.  
+
+## 📈 Coding Profiles  
+- **LeetCode:** [leetcode.com/VrindaVerma](#)  
+- **GeeksforGeeks:** [gfg.com/VrindaVerma](#)  
+- **CodeChef:** [codechef.com/VrindaVerma](#)  
+
+## 📫 Let's Connect!  
+🌐 **Portfolio:** [Coming Soon!]  
+💼 **LinkedIn:** [linkedin.com/in/vrindaverma](#)  
+📧 **Email:** vrinda885@gmail.com  
+
+🚀 Open to collaborations and learning new technologies!  
