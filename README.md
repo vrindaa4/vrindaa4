@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vrinda Verma!  
+#  Hi, I'm Vrinda Verma!  
 
 🚀 **Computer Science Student | Backend Developer | Tech Enthusiast**  
 
@@ -21,7 +21,7 @@
 
 ## 📫 Let's Connect!  
 🌐 **Portfolio:** [Coming Soon!]  
-💼 **LinkedIn:** (#)  
+💼 **LinkedIn:** (https://www.linkedin.com/in/vrinda-verma-135a70223/ )  
 📧 **Email:** vrinda885@gmail.com  
 
 🚀 Open to collaborations and learning new technologies!  
